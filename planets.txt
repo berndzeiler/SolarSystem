@@ -3,6 +3,8 @@ Earth
 Mars
 Venus
 Mars
+ - Phobos
+ - Deimos
 Jupiter
 Saturn
 Uranus
